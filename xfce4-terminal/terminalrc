@@ -1,0 +1,26 @@
+[Configuration]
+ColorForeground=#c210c210c210
+FontName=Liberation Mono for Powerline 9
+MiscAlwaysShowTabs=FALSE
+MiscBell=FALSE
+MiscBordersDefault=TRUE
+MiscCursorBlinks=FALSE
+MiscCursorShape=TERMINAL_CURSOR_SHAPE_BLOCK
+MiscDefaultGeometry=80x24
+MiscInheritGeometry=FALSE
+MiscMenubarDefault=FALSE
+MiscMouseAutohide=FALSE
+MiscToolbarDefault=FALSE
+MiscConfirmClose=TRUE
+MiscCycleTabs=TRUE
+MiscTabCloseButtons=TRUE
+MiscTabCloseMiddleClick=TRUE
+MiscTabPosition=GTK_POS_TOP
+MiscHighlightUrls=TRUE
+MiscScrollAlternateScreen=TRUE
+ColorCursor=#a2a2a2a2a2a2
+ColorBackground=#282828282828
+ColorPalette=#555555555555;#d5c71edc07c5;#6161bcbc3b3b;#f3f3b4b43a3a;#0479754ec4a8;#747445456060;#28288e8e9c9c;#b5adb5adb5ad;#a108a108a108;#d6d649493737;#8686dfdf5d5d;#fdfdd7d75a5a;#0f0f7575bdbd;#9e9e5e5e8383;#3737c3c3d6d6;#f9f9f9f9f9f9
+TabActivityColor=#bb93181a1537
+ScrollingBar=TERMINAL_SCROLLBAR_NONE
+
